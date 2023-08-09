@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @jorgeanais
-- 👀 I'm interested in astronomy, music, artificial intelligence, python
+- 👀 I'm interested in astronomy, electroacoustic music, artificial intelligence, python
 - 🌱 I'm currently a Ph.D. student at [Universidad de Antofagasta](https://www.astro.uantof.cl/), investigating how to characterize Sagittarius dwarf spheroidal galaxy at low latitudes where contamination from foreground sources is very high. For that I plan to use near-infrared data and machine learning tools.
 - 💞️ I'm looking to collaborate on projects related to astronomy data processing, machine learning, and sonification.
 - 📫 How to reach me: www.jorgeanais.cl
